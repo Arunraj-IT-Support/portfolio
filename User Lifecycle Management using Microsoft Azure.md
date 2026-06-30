@@ -1,5 +1,3 @@
-**🎯 The Objective:**
-
 This project demonstrates the end-to-end implementation of identity and access management across a hybrid environment using Microsoft Entra ID.
 
 It covers the complete administrative workflow, including user onboarding, access provisioning, group and policy management, password and security controls, and handling real-world scenarios such as account recovery, user offboarding, and data protection. The objective is to simulate how modern organizations manage users, enforce security, and maintain operational efficiency through centralized admin systems.
@@ -91,7 +89,7 @@ Deployed rigorous identity verification safeguards across target corporate profi
 
 
 
-**Result:**
+**📊 Result:**
 
 1. Reduced employee account provisioning and onboarding times by automating identity ingestion loops.
 2. Enforced a strict Least Privilege standard across all organizational departments, reducing internal data-exposure risks.
