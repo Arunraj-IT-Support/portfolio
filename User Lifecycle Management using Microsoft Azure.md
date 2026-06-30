@@ -59,7 +59,6 @@ Delegated administrative management permissions by assigning specific users as G
 
 <img width="1388" height="839" alt="image" src="https://github.com/user-attachments/assets/9ca511cc-05d0-4da6-b884-f4d1dc59c206" />
 
-  Enforcing Role-Based Access Control (RBAC) via Group Ownership:
 
 <img width="1387" height="866" alt="image" src="https://github.com/user-attachments/assets/f3b3f921-bb37-4a73-a6f0-1a4042e2f88c" />
 
