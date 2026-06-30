@@ -66,5 +66,16 @@ Enforced secure end-of-lifecycle deprovisioning protocols during permanent emplo
 
 <img width="1659" height="825" alt="image" src="https://github.com/user-attachments/assets/d7864b84-8d8f-4b8b-9ada-8c4222cdd0b7" />
 
+7. Provisioning Enterprise Distribution Lists & Unified Messaging Groups:
+
+Architected centralized internal communication channels by provisioning dedicated domain distribution mailing lists. Configured target inbound routing parameters, delivery restrictions, and explicit security permissions to enable seamless, authenticated mass-messaging to specific functional departments while protecting the domain from external spam injection.
+
+<img width="1651" height="869" alt="image" src="https://github.com/user-attachments/assets/a924d53b-ec23-4a67-946a-89a4ae12e74f" />
+
+<img width="1660" height="880" alt="image" src="https://github.com/user-attachments/assets/ba67a400-cebf-4375-b5a9-6f663a77ceb6" />
+
+
+
+
 
 
