@@ -26,14 +26,18 @@ A growing organization needed a secure and structured user management system to 
 
 This section covers real-world user lifecycle management scenarios commonly encountered in corporate environments, along with their handling from an IT Support perspective using **“Microsoft Entra ID”**. 
 
-1. Created Two users called **“Raj.E”** & **“Anand Kumar”**
+1. Provisioning **Enterprise Identities & Managing User** Lifecycles:
+
+Initialized and deployed standard corporate user profiles within the centralized cloud directory to establish secure digital identities. This layout structures baseline account configurations, attributes management, and initial access logging for incoming organizational personnel.
 
 <img width="1412" height="481" alt="image" src="https://github.com/user-attachments/assets/65bf1888-9245-4dec-b633-3913a8610b69" />
 
 I've created created 2 New Users by All Users -> New Users -> Adding Details -> Creating New users
 
 
-2. Creating a **“Break Glass Admin”** user with Global Admin access and disabled MFA: 
+2. Deploying Emergency **Break-Glass Controls** for Infrastructure Redundancy:
+
+Configured a highly privileged emergency recovery account assigned to the Global Administrator role to prevent total tenant lockout during primary system failures. This profile was strategically excluded from conditional multi-factor authentication (MFA) loops to maintain a resilient, secondary administrative access pathway during carrier network or cellular authentication outages. 
 
 <img width="1026" height="620" alt="image" src="https://github.com/user-attachments/assets/4882642b-c1a7-460a-9571-1db091573735" />
 
