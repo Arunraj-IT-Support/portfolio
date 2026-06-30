@@ -64,7 +64,7 @@ Delegated administrative management permissions by assigning specific users as G
 
 5. Executing User Offboarding Protocols & Lifecycle Deprovisioning:
 
-Managed the secure exit of personnel by executing enterprise offboarding workflows, completely deprovisioning cloud identities, revoking software licenses, and deleting system profiles to prevent unauthorized post-employment access.
+Managed the secure exit of personnel by executing enterprise offboarding workflows, completely deprovisioning cloud identities, and deleting system profiles to prevent unauthorized post-employment access.
 
 <img width="1389" height="859" alt="image" src="https://github.com/user-attachments/assets/675334e3-d486-4cf7-ab38-1b20e4c2a1b8" />
 
