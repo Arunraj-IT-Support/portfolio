@@ -44,9 +44,51 @@ This Admin account was created with "Global Administartor" access to encounter *
 
 
 
-3. Performing Bulk Actions [Creatings users in bulk with **"CreateUsersTemplate.csv"**]
+3. Provisioning **Security Groups** and **Managing Group Memberships:**
+
+Constructed dedicated organizational security groups inside the directory infrastructure to collect cross-functional users into structured tracking blocks.
 
 <img width="1345" height="422" alt="image" src="https://github.com/user-attachments/assets/ab608a71-e373-4032-9d13-c468c6afa1e8" />
 
 
+4. Enforcing **Role-Based Access Control (RBAC)** via Group Ownership Delegations:
+   
+Delegated administrative management permissions by assigning specific users as Group Owners, enabling decentralized policy management without violating the Principle of Least Privilege.
 
+<img width="1388" height="839" alt="image" src="https://github.com/user-attachments/assets/9ca511cc-05d0-4da6-b884-f4d1dc59c206" />
+
+  Enforcing Role-Based Access Control (RBAC) via Group Ownership:
+
+<img width="1387" height="866" alt="image" src="https://github.com/user-attachments/assets/f3b3f921-bb37-4a73-a6f0-1a4042e2f88c" />
+
+5. Executing User Offboarding Protocols & Lifecycle Deprovisioning:
+
+Managed the secure exit of personnel by executing enterprise offboarding workflows, completely deprovisioning cloud identities, revoking software licenses, and deleting system profiles to prevent unauthorized post-employment access.
+
+<img width="1389" height="859" alt="image" src="https://github.com/user-attachments/assets/675334e3-d486-4cf7-ab38-1b20e4c2a1b8" />
+
+6. Mitigating Active Cyber Threats via **Global Session Revocation**:
+
+Initiated immediate incident response protocols to counter active credential theft or session hijacking threats. Executed a global session revocation via the administrative console, instantly invalidating active browser cookies and OAuth tokens to lock out unauthorized actors while preserving system integrity.
+
+<img width="1393" height="486" alt="image" src="https://github.com/user-attachments/assets/5aae2041-1e70-4505-86c4-bf88a3c53a02" />
+
+7. Executing **Post-Offboarding** Forensic Audits & User Log Analysis:
+
+Processed formal organizational data requests to conduct security and compliance audits on deprovisioned corporate assets. Extracted and analyzed directory sign-in logs, audit trails, and data access events from the tenant repository to ensure absolute regulatory alignment and detect post-termination anomalies.
+
+<img width="1392" height="839" alt="image" src="https://github.com/user-attachments/assets/489adfef-c13b-4435-a60c-a39972c48032" />
+
+8. Enforcing Targeted **Multi-Factor Authentication (MFA)**:
+
+Deployed rigorous identity verification safeguards across target corporate profiles to eliminate perimeter credential vulnerabilities. Configured explicit per-user authentication baselines and conditional verification loops within the admin center to ensure only validated personnel can establish authorized cloud connections.
+
+<img width="1346" height="670" alt="image" src="https://github.com/user-attachments/assets/58dec228-f066-4769-8488-ea09b48e7064" />
+
+
+
+**Result:**
+
+1. Reduced employee account provisioning and onboarding times by automating identity ingestion loops.
+2. Enforced a strict Least Privilege standard across all organizational departments, reducing internal data-exposure risks.
+3. Established a resilient emergency disaster recovery protocol to ensure 100% tenant availability.
