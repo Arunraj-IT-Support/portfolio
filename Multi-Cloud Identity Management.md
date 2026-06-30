@@ -12,8 +12,11 @@ Identity & Access Management (IAM) Architecture
 
 THE EXECUTION: Section 1
 This section covers real-world user lifecycle management scenarios commonly encountered in corporate environments, along with their handling from an IT Support perspective using “Microsoft Entra ID”. 
+
 Created Two users called “Raj.E” & “Anand Kumar
 
 <img width="1412" height="481" alt="image" src="https://github.com/user-attachments/assets/ea0b5a39-3bb6-4de6-a32d-d0b87e875b0a" />
 
-<img width="1412" height="481" alt="image" src="https://github.com/user-attachments/assets/7c0376bf-88f9-44c8-921d-f563abb74a72" />
+Creating a “Break Glass Admin” user with Global Admin access and disabled MFA:
+
+<img width="1026" height="620" alt="image" src="https://github.com/user-attachments/assets/87f0b240-9349-4e51-89d5-5100a715a904" />
