@@ -39,16 +39,16 @@ Configured a highly privileged emergency recovery account assigned to the Global
 
 <img width="1026" height="620" alt="image" src="https://github.com/user-attachments/assets/4882642b-c1a7-460a-9571-1db091573735" />
 
-This Admin account was created with "Global Administartor" access to encounter **"complete lock out"** situation.
+This Admin account was created with "Global Administrator" access to encounter **"complete lock out"** situation.
 
 <img width="1374" height="752" alt="image" src="https://github.com/user-attachments/assets/cf971499-9979-4480-b363-98cc5c7b73e3" />
 <img width="1294" height="711" alt="image" src="https://github.com/user-attachments/assets/b311fe7c-0973-4da7-81c2-0b9e4f02bf81" />
 
 
 
-3. Provisioning **Security Groups** and **Managing Group Memberships:**
+3. Bulk User Provisioning using **CSV Automation**:
 
-Constructed dedicated organizational security groups inside the directory infrastructure to collect cross-functional users into structured tracking blocks.
+Created and onboarded multiple user accounts efficiently by importing structured CSV files into the directory infrastructure, enabling rapid deployment of employee identities with consistent attribute configuration and reduced manual effort.
 
 <img width="1345" height="422" alt="image" src="https://github.com/user-attachments/assets/ab608a71-e373-4032-9d13-c468c6afa1e8" />
 
