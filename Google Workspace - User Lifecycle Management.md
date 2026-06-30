@@ -50,5 +50,21 @@ Granting AI studio access only to design team:
 
 <img width="1670" height="791" alt="image" src="https://github.com/user-attachments/assets/7ac4bdb8-2015-4f4d-9912-80df150795e4" />
 
+5. Executing Operational Identity **Suspensions & Lifecycle Reactivations**:
+
+Managed transient personnel leaves and personnel status changes by enforcing dynamic user state configurations within the cloud directory console. Implemented immediate account suspensions to neutralize access pathways during employee leaves, followed by structured tenant lifecycle reactivations to safely restore corporate data links without profile degradation.
+
+<img width="1396" height="716" alt="image" src="https://github.com/user-attachments/assets/64422f69-ba48-4d49-a7e5-7527d169bcc3" />
+
+<img width="1036" height="531" alt="image" src="https://github.com/user-attachments/assets/8a6ff1de-bf17-4877-a850-067d969e3b52" />
+
+6. Executing **Lifecycle Deprovisioning & Administrative Data Custody Transfers**:
+
+Enforced secure end-of-lifecycle deprovisioning protocols during permanent employee offboarding to mitigate post-employment access vulnerabilities. Prior to account termination, initiated comprehensive cloud resource ownership migrations, securely transferring critical email archives, drive repositories, and asset data to designated management custody to ensure business continuity and zero data loss.
+
+<img width="1035" height="630" alt="image" src="https://github.com/user-attachments/assets/2c312b8a-49bb-40d1-84a3-4abde7d99ec8" />
+
+<img width="1659" height="825" alt="image" src="https://github.com/user-attachments/assets/d7864b84-8d8f-4b8b-9ada-8c4222cdd0b7" />
+
 
 
