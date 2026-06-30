@@ -24,8 +24,9 @@ A growing organization needed a secure and structured user management system to 
 
 **⚙️ THE EXECUTION:**
 
-This section covers real-world user lifecycle management scenarios commonly encountered in corporate environments, along with their handling from an IT Support perspective using “Microsoft Entra ID”. 
-Created Two users called “Raj.E” & “Anand Kumar”
+This section covers real-world user lifecycle management scenarios commonly encountered in corporate environments, along with their handling from an IT Support perspective using **“Microsoft Entra ID”**. 
+
+1. Created Two users called **“Raj.E”** & **“Anand Kumar”**
 
 <img width="1412" height="481" alt="image" src="https://github.com/user-attachments/assets/65bf1888-9245-4dec-b633-3913a8610b69" />
 
