@@ -47,6 +47,7 @@ Designed and configured a standardized invoice layout using the form customizati
 <img width="1313" height="569" alt="image" src="https://github.com/user-attachments/assets/d5400957-59ed-45eb-b301-6e4a5ac8a8b2" />
 
 
+
 **📊 Results**:
 
 1. Reduced manual accounting system deployment times by utilizing automated CSV templates for bulk inventory and client data ingestion.
