@@ -10,7 +10,7 @@ Prevention of unauthorized access
 
 **🛠️ Tools**
 
-Google Admin Console
+Google Workspace Admin Console
 
 **🏢 Scenario**
 
