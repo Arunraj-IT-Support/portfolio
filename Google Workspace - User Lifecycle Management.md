@@ -52,23 +52,25 @@ Granting AI studio access only to design team:
 
 5. Suspending and Reactivating User Accounts:
 
-Managed transient personnel leaves and personnel status changes by enforcing dynamic user state configurations within the cloud directory console. Implemented immediate account suspensions to neutralize access pathways during employee leaves, followed by structured tenant lifecycle reactivations to safely restore corporate data links without profile degradation.
+Handled temporary workplace changes, such as an employee going on extended leave. Suspended the account to block all active access pathways while they are away, and later reactivated the account to safely restore their access and data without changing their profile settings.
 
 <img width="1396" height="716" alt="image" src="https://github.com/user-attachments/assets/64422f69-ba48-4d49-a7e5-7527d169bcc3" />
 
 <img width="1036" height="531" alt="image" src="https://github.com/user-attachments/assets/8a6ff1de-bf17-4877-a850-067d969e3b52" />
 
-6. Executing **Lifecycle Deprovisioning & Administrative Data Custody Transfers**:
+6. Employee Offboarding and Data Custody Transfers:
 
-Handled temporary workplace changes, such as an employee going on extended leave. Suspended the account to block all active access pathways while they are away, and later reactivated the account to safely restore their access and data without changing their profile settings.
+Managed the permanent offboarding process for departing employees to prevent security risks. Before deleting or closing the account, initiated a data transfer to securely migrate all email archives, Google Drive files, and ownership of core assets to a manager or designated custody account to maintain business continuity.
 
 <img width="1035" height="630" alt="image" src="https://github.com/user-attachments/assets/2c312b8a-49bb-40d1-84a3-4abde7d99ec8" />
 
+Transfering the User's data to the user "Digital marketer"
+
 <img width="1659" height="825" alt="image" src="https://github.com/user-attachments/assets/d7864b84-8d8f-4b8b-9ada-8c4222cdd0b7" />
 
-7. Provisioning Enterprise Distribution Lists & Unified Messaging Groups:
+7. Setting Up Enterprise Distribution Lists and Groups:
 
-Architected centralized internal communication channels by provisioning dedicated domain distribution mailing lists. Configured target inbound routing parameters, delivery restrictions, and explicit security permissions to enable seamless, authenticated mass-messaging to specific functional departments while protecting the domain from external spam injection.
+Created internal communication channels using Google Groups as email distribution lists. Configured access permissions, delivery rules, and restrictions to allow seamless messaging within specific departments while blocking external spam from hitting the group email addresses.
 
 <img width="1651" height="869" alt="image" src="https://github.com/user-attachments/assets/a924d53b-ec23-4a67-946a-89a4ae12e74f" />
 
