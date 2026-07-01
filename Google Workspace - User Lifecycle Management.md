@@ -20,7 +20,7 @@ A growing organization needed a secure and structured user management system to 
 
 This section covers real-world user lifecycle management scenarios commonly encountered in corporate environments, along with their handling from an IT Support perspective using **“Google Workspace Admin Console”**. 
 
-1. Provisioning **Enterprise Identities & Managing User** Lifecycles:
+1. Provisioning **Enterprise Identities & Managing User** Lifecycles: [Creating user]
 
 Initialized and deployed standard corporate user profiles within the centralized cloud directory to establish secure digital identities. This layout structures baseline account configurations, attributes management, and initial access logging for incoming organizational personnel.
 
