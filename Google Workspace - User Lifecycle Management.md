@@ -20,21 +20,21 @@ A growing organization needed a secure and structured user management system to 
 
 This section covers real-world user lifecycle management scenarios commonly encountered in corporate environments, along with their handling from an IT Support perspective using **“Google Workspace Admin Console”**. 
 
-1. Provisioning **Enterprise Identities & Managing User** Lifecycles: [Creating user]
+1. Provisioning **Enterprise Identities & Managing User** Lifecycles: [Creating and Managing User Accounts]
 
-Initialized and deployed standard corporate user profiles within the centralized cloud directory to establish secure digital identities. This layout structures baseline account configurations, attributes management, and initial access logging for incoming organizational personnel.
+Created and configured new corporate user accounts in the Google Workspace Admin Console. This step establishes the basic digital identity for new hires, setting up their core profile details and initial account settings so they can log in securely.
 
 <img width="819" height="609" alt="image" src="https://github.com/user-attachments/assets/3753aa8d-7b6a-49bf-a674-a7b01c837d56" />
 
 2. **Constructing Directory Trees** for Functional Isolation:
 
-Engineered segmented Parent and Child Organizational Units (OUs) within the Google Workspace directory layout. This deployment systematically isolates corporate teams (e.g., segregating the Sales Team from the Poster Design Team) to restrict lateral data-exposure perimeters.
+Set up Parent and Child Organizational Units (OUs) within the system. This structure separates different teams—such as isolating the Sales Team from the Poster Design Team—to make sure data and access are kept separate between departments.
 
 <img width="1636" height="734" alt="image" src="https://github.com/user-attachments/assets/0e03baed-9cc8-4a2c-83a4-23f0db624473" />
 
-3. Structuring Organizational Unit (OU) Hierarchies & Directory Segmentation:
+3. Assigning Users to Specific Organizational Units (OUs):
 
-Provisioned and aligned diverse corporate user profiles into distinct, nested Organizational Units (OUs) based on functional department mandates. This structural segregation enables targeted policy deployment, automates group inherits, and prevents cross-departmental data sprawl by isolating team assets.
+Moved and assigned users into their actual department OUs based on their job roles. Placing users in their correct OUs ensures they automatically inherit the right department policies and prevents users from accessing files or assets belonging to other teams.
 
 <img width="1401" height="584" alt="image" src="https://github.com/user-attachments/assets/18535397-a6be-445c-8c0e-451467d719ac" />
 
@@ -42,7 +42,7 @@ Provisioned and aligned diverse corporate user profiles into distinct, nested Or
 
 4. Enforcing Governance via Application Service Overrides:
 
-Regulated corporate asset exposures by enforcing strict domain-wide application blocks. Applied targeted administrative service overrides to disable unapproved or high-risk modules (such as completely turning off Google AI Studio) across restricted organizational units.
+Demonstrated application governance by restricting access to tools based on job requirements. I turned off Google AI Studio domain-wide for all standard users to prevent unapproved tool usage, but applied a service override to keep it enabled exclusively for the Design Team OU who require it for their work.
 
 <img width="1675" height="732" alt="image" src="https://github.com/user-attachments/assets/31b3d78c-2926-48a9-a9e2-fab435e5719a" />
 
@@ -50,7 +50,7 @@ Granting AI studio access only to design team:
 
 <img width="1670" height="791" alt="image" src="https://github.com/user-attachments/assets/7ac4bdb8-2015-4f4d-9912-80df150795e4" />
 
-5. Executing Operational Identity **Suspensions & Lifecycle Reactivations**:
+5. Suspending and Reactivating User Accounts:
 
 Managed transient personnel leaves and personnel status changes by enforcing dynamic user state configurations within the cloud directory console. Implemented immediate account suspensions to neutralize access pathways during employee leaves, followed by structured tenant lifecycle reactivations to safely restore corporate data links without profile degradation.
 
@@ -60,7 +60,7 @@ Managed transient personnel leaves and personnel status changes by enforcing dyn
 
 6. Executing **Lifecycle Deprovisioning & Administrative Data Custody Transfers**:
 
-Enforced secure end-of-lifecycle deprovisioning protocols during permanent employee offboarding to mitigate post-employment access vulnerabilities. Prior to account termination, initiated comprehensive cloud resource ownership migrations, securely transferring critical email archives, drive repositories, and asset data to designated management custody to ensure business continuity and zero data loss.
+Handled temporary workplace changes, such as an employee going on extended leave. Suspended the account to block all active access pathways while they are away, and later reactivated the account to safely restore their access and data without changing their profile settings.
 
 <img width="1035" height="630" alt="image" src="https://github.com/user-attachments/assets/2c312b8a-49bb-40d1-84a3-4abde7d99ec8" />
 
